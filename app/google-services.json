@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "932596915345",
+    "firebase_url": "https://execom-workshop-chat.firebaseio.com",
+    "project_id": "execom-workshop-chat",
+    "storage_bucket": "execom-workshop-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932596915345:android:e505bc279029a19c",
+        "android_client_info": {
+          "package_name": "eu.execom.chatapplicationspring2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932596915345-ba1r3898ftr5fda54ktf5tfu8f1r4pdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eu.execom.chatapplicationspring2017",
+            "certificate_hash": "6ef8966f9300fc4bee97a167601c1db0b9105c73"
+          }
+        },
+        {
+          "client_id": "932596915345-de6s7uub00m2j0o93obbo2dbhjimahq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCba7Faqg3HqTRptpEjafXOaPmieB2SPo4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932596915345-de6s7uub00m2j0o93obbo2dbhjimahq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
